@@ -19,9 +19,4 @@
 -Script can be used without ongoing updates because it pulls directly from the open data source, meaning that the user is getting the most up-to-date every run  
 
 **Speed**:  
--Roughly 15 seconds to start compiled program, 5 seconds to run  
 -Near instantaneous start if running native Python.  
-
-**Future Enhancements**:  
--Startup speed for compiled file  
--reduce file size
