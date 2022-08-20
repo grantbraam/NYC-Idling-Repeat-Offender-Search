@@ -19,4 +19,4 @@
 -Script can be used without ongoing updates because it pulls directly from the open data source, meaning that the user is getting the most up-to-date every run  
 
 **Speed**:  
--Near instantaneous start if running native Python.  
+3-5 seconds to execute search
